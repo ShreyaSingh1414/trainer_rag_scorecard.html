@@ -1,0 +1,678 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/FEA/Downloads/trainer_rag_scorecard.html
+Subject: 
+Date: Thu, 26 Mar 2026 10:13:35 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4X2AY0kwAzbLdfJjXFEg7JdJ2xXRwUJgS9oGn4gyOj----"
+
+
+------MultipartBoundary--4X2AY0kwAzbLdfJjXFEg7JdJ2xXRwUJgS9oGn4gyOj----
+Content-Type: text/html
+Content-ID: <frame-E00B3A0C7A846EEBEB6EF692A9348992@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/FEA/Downloads/trainer_rag_scorecard.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-73d0b7=
+fc-4de9-4fba-a870-5ea81dc33b34@mhtml.blink" />
+
+</head><body><div class=3D"wrap">
+
+<div class=3D"top-bar">
+  <div>
+    <div class=3D"section-label" style=3D"margin-bottom:4px">Trainer RAG sc=
+orecard</div>
+    <div class=3D"legend">
+      <span><span class=3D"leg-dot" style=3D"background:#2a7a3b"></span>Gre=
+en =E2=89=A570%</span>
+      <span><span class=3D"leg-dot" style=3D"background:#BA7517"></span>Amb=
+er 55=E2=80=9369%</span>
+      <span><span class=3D"leg-dot" style=3D"background:#c0392b"></span>Red=
+ &lt;55%</span>
+      <span><span class=3D"leg-dot" style=3D"background:#aaa"></span>Insuff=
+icient data</span>
+    </div>
+  </div>
+  <div class=3D"filter-row">
+    <div class=3D"filter-btn active">All</div>
+    <div class=3D"filter-btn">Green</div>
+    <div class=3D"filter-btn">Amber</div>
+    <div class=3D"filter-btn">Red</div>
+  </div>
+</div>
+
+<div class=3D"scorecard-grid" id=3D"scorecard-grid"><div class=3D"sc-card r=
+ag-amber" id=3D"card-0">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Akash Srivastava</div>
+        <span class=3D"rag-badge badge-amber">Watch</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#8a5010">63%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">16</div><div =
+class=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">4</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#BA7517" title=3D"Nov: 60%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:#BA7517" title=3D"Dec: 60%"></div><div class=3D"month-pip" style=3D"ba=
+ckground:#BA7517" title=3D"Jan: 69%"></div><div class=3D"month-pip" style=
+=3D"background:#BA7517" title=3D"Feb: 61%"></div></div>
+    </div><div class=3D"sc-card rag-amber" id=3D"card-1">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Pinki Gupta</div>
+        <span class=3D"rag-badge badge-amber">Watch</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#0c447c">67%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">11</div><div =
+class=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">4</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#BA7517" title=3D"Nov: 62%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:#2a7a3b" title=3D"Dec: 72%"></div><div class=3D"month-pip" style=3D"ba=
+ckground:#BA7517" title=3D"Jan: 69%"></div><div class=3D"month-pip" style=
+=3D"background:#BA7517" title=3D"Feb: 65%"></div></div>
+    </div><div class=3D"sc-card rag-amber" id=3D"card-2">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Nooruddin Nizami</div>
+        <span class=3D"rag-badge badge-amber">Watch</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#0c447c">69%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">21</div><div =
+class=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">4</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#2a7a3b" title=3D"Nov: 72%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:#2a7a3b" title=3D"Dec: 80%"></div><div class=3D"month-pip" style=3D"ba=
+ckground:#BA7517" title=3D"Jan: 65%"></div><div class=3D"month-pip" style=
+=3D"background:#BA7517" title=3D"Feb: 59%"></div></div>
+    </div><div class=3D"sc-card rag-red" id=3D"card-3">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Abhishek Verma</div>
+        <span class=3D"rag-badge badge-red">At Risk</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#8a1a1a">16%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">11</div><div =
+class=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">1</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:var(--color-background-secondary)" title=3D"Nov: N/A%"></div><div class=3D=
+"month-pip" style=3D"background:var(--color-background-secondary)" title=3D=
+"Dec: N/A%"></div><div class=3D"month-pip" style=3D"background:var(--color-=
+background-secondary)" title=3D"Jan: N/A%"></div><div class=3D"month-pip" s=
+tyle=3D"background:#c0392b" title=3D"Feb: 16%"></div></div>
+    </div><div class=3D"sc-card rag-green" id=3D"card-4">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Priyanshu Pandey</div>
+        <span class=3D"rag-badge badge-green">Good</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#0c447c">73%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">12</div><div =
+class=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">2</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#BA7517" title=3D"Nov: 64%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:#2a7a3b" title=3D"Dec: 81%"></div><div class=3D"month-pip" style=3D"ba=
+ckground:var(--color-background-secondary)" title=3D"Jan: N/A%"></div><div =
+class=3D"month-pip" style=3D"background:var(--color-background-secondary)" =
+title=3D"Feb: N/A%"></div></div>
+    </div><div class=3D"sc-card rag-green" id=3D"card-5">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Alisha Kausar</div>
+        <span class=3D"rag-badge badge-green">Good</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#0c447c">73%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">7</div><div c=
+lass=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">1</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#2a7a3b" title=3D"Nov: 73%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:var(--color-background-secondary)" title=3D"Dec: N/A%"></div><div clas=
+s=3D"month-pip" style=3D"background:var(--color-background-secondary)" titl=
+e=3D"Jan: N/A%"></div><div class=3D"month-pip" style=3D"background:var(--co=
+lor-background-secondary)" title=3D"Feb: N/A%"></div></div>
+    </div><div class=3D"sc-card rag-amber" id=3D"card-6">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Alpana Yadav</div>
+        <span class=3D"rag-badge badge-amber">Watch</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#0c447c">66%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">16</div><div =
+class=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">3</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#BA7517" title=3D"Nov: 67%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:#BA7517" title=3D"Dec: 65%"></div><div class=3D"month-pip" style=3D"ba=
+ckground:#BA7517" title=3D"Jan: 67%"></div><div class=3D"month-pip" style=
+=3D"background:var(--color-background-secondary)" title=3D"Feb: N/A%"></div=
+></div>
+    </div><div class=3D"sc-card rag-amber" id=3D"card-7">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Amit Kumar</div>
+        <span class=3D"rag-badge badge-amber">Watch</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#0c447c">67%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">1</div><div c=
+lass=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">2</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#BA7517" title=3D"Nov: 69%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:#BA7517" title=3D"Dec: 64%"></div><div class=3D"month-pip" style=3D"ba=
+ckground:var(--color-background-secondary)" title=3D"Jan: N/A%"></div><div =
+class=3D"month-pip" style=3D"background:var(--color-background-secondary)" =
+title=3D"Feb: N/A%"></div></div>
+    </div><div class=3D"sc-card rag-red" id=3D"card-8">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Harshit Pandey</div>
+        <span class=3D"rag-badge badge-red">At Risk</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#8a1a1a">53%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">3</div><div c=
+lass=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">2</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#c0392b" title=3D"Nov: 36%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:var(--color-background-secondary)" title=3D"Dec: N/A%"></div><div clas=
+s=3D"month-pip" style=3D"background:#BA7517" title=3D"Jan: 69%"></div><div =
+class=3D"month-pip" style=3D"background:var(--color-background-secondary)" =
+title=3D"Feb: N/A%"></div></div>
+    </div><div class=3D"sc-card rag-amber" id=3D"card-9">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Tufail Khan</div>
+        <span class=3D"rag-badge badge-amber">Watch</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#8a5010">64%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">11</div><div =
+class=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">3</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:#BA7517" title=3D"Nov: 68%"></div><div class=3D"month-pip" style=3D"backgr=
+ound:var(--color-background-secondary)" title=3D"Dec: N/A%"></div><div clas=
+s=3D"month-pip" style=3D"background:#2a7a3b" title=3D"Jan: 70%"></div><div =
+class=3D"month-pip" style=3D"background:#BA7517" title=3D"Feb: 55%"></div><=
+/div>
+    </div><div class=3D"sc-card rag-amber" id=3D"card-10">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Ritu Chaudhary</div>
+        <span class=3D"rag-badge badge-amber">Watch</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#0c447c">66%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">4</div><div c=
+lass=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">1</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:var(--color-background-secondary)" title=3D"Nov: N/A%"></div><div class=3D=
+"month-pip" style=3D"background:var(--color-background-secondary)" title=3D=
+"Dec: N/A%"></div><div class=3D"month-pip" style=3D"background:#BA7517" tit=
+le=3D"Jan: 66%"></div><div class=3D"month-pip" style=3D"background:var(--co=
+lor-background-secondary)" title=3D"Feb: N/A%"></div></div>
+    </div><div class=3D"sc-card rag-amber" id=3D"card-11">
+      <div class=3D"sc-header">
+        <div class=3D"sc-name">Shalinee Singh</div>
+        <span class=3D"rag-badge badge-amber">Watch</span>
+      </div>
+      <div class=3D"sc-metrics">
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val" style=3D"colo=
+r:#0c447c">69%</div><div class=3D"sc-metric-label">Avg MPR</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">2</div><div c=
+lass=3D"sc-metric-label">ATR load</div></div>
+        <div class=3D"sc-metric"><div class=3D"sc-metric-val">2</div><div c=
+lass=3D"sc-metric-label">Active mo.</div></div>
+      </div>
+      <div class=3D"sc-months"><div class=3D"month-pip" style=3D"background=
+:var(--color-background-secondary)" title=3D"Nov: N/A%"></div><div class=3D=
+"month-pip" style=3D"background:var(--color-background-secondary)" title=3D=
+"Dec: N/A%"></div><div class=3D"month-pip" style=3D"background:#BA7517" tit=
+le=3D"Jan: 69%"></div><div class=3D"month-pip" style=3D"background:#BA7517"=
+ title=3D"Feb: 69%"></div></div>
+    </div></div>
+
+<div class=3D"drill-panel" id=3D"drill-panel">
+  <div class=3D"drill-title">
+    <span id=3D"drill-name"></span>
+    <span id=3D"drill-badge"></span>
+    <span class=3D"close-btn">=E2=9C=95 close</span>
+  </div>
+  <div class=3D"summary-stats" id=3D"drill-summary"></div>
+  <div class=3D"drill-grid">
+    <div>
+      <div style=3D"font-size:12px;font-weight:500;color:var(--color-text-s=
+econdary);margin-bottom:8px">Month-by-month performance</div>
+      <table class=3D"tbl" id=3D"drill-table">
+        <thead><tr><th>Month</th><th>MPR %</th><th>Trainees</th><th>vs avg<=
+/th></tr></thead>
+        <tbody id=3D"drill-tbody"></tbody>
+      </table>
+    </div>
+    <div>
+      <div style=3D"font-size:12px;font-weight:500;color:var(--color-text-s=
+econdary);margin-bottom:8px">MPR trend</div>
+      <div style=3D"position:relative;height:140px"><canvas id=3D"drill-cha=
+rt"></canvas></div>
+      <div style=3D"font-size:11px;color:var(--color-text-tertiary);margin-=
+top:8px" id=3D"drill-insight"></div>
+    </div>
+  </div>
+</div>
+
+<div class=3D"section-label">ATR workload distribution</div>
+<div style=3D"background:var(--color-background-primary);border:0.5px solid=
+ var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding=
+:16px 18px">
+  <div id=3D"atr-bars"><div style=3D"display:flex;align-items:center;gap:8p=
+x;margin-bottom:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Unassign=
+ed</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:100%;height:100%;background:#c0392b;border-radius=
+:3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-w=
+eight:500;color:#fff">71</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">71</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Nooruddi=
+n Nizami</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:30%;height:100%;background:#378ADD;border-radius:=
+3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-we=
+ight:500;color:#fff">21</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">21</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Akash Sr=
+ivastav</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:23%;height:100%;background:#378ADD;border-radius:=
+3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-we=
+ight:500;color:#fff">16</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">16</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Alpana Y=
+adav</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:23%;height:100%;background:#378ADD;border-radius:=
+3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-we=
+ight:500;color:#fff">16</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">16</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Priyansh=
+u Pandey</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:17%;height:100%;background:#378ADD;border-radius:=
+3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-we=
+ight:500;color:#fff">12</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">12</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Abhishek=
+ Verma</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:15%;height:100%;background:#378ADD;border-radius:=
+3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-we=
+ight:500;color:#fff">11</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">11</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Pinki Gu=
+pta</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:15%;height:100%;background:#378ADD;border-radius:=
+3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-we=
+ight:500;color:#fff">11</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">11</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Tufail K=
+han</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:15%;height:100%;background:#378ADD;border-radius:=
+3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-we=
+ight:500;color:#fff">11</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">11</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Alisha K=
+ausar</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:10%;height:100%;background:#378ADD;border-radius:=
+3px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-we=
+ight:500;color:#fff">7</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">7</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Divya Sh=
+arma</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:6%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff">4</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">4</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Ritu Cha=
+udhary</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:6%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff">4</div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">4</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Harshit =
+Pandey</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:4%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff"></div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">3</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Prateek =
+Bhatt</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:4%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff"></div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">3</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Karan Bh=
+arti</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:3%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff"></div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">2</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Mantasha=
+ Khan</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:3%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff"></div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">2</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Shalinee=
+ Singh</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:3%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff"></div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">2</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Shubham =
+Kumar</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:3%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff"></div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">2</div>
+  </div><div style=3D"display:flex;align-items:center;gap:8px;margin-bottom=
+:6px">
+    <div style=3D"font-size:12px;color:var(--color-text-secondary);min-widt=
+h:140px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Amit Kum=
+ar</div>
+    <div style=3D"flex:1;background:var(--color-background-secondary);borde=
+r-radius:3px;height:20px;overflow:hidden">
+      <div style=3D"width:1%;height:100%;background:#378ADD;border-radius:3=
+px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-wei=
+ght:500;color:#fff"></div>
+    </div>
+    <div style=3D"font-size:11px;font-weight:500;color:var(--color-text-pri=
+mary);min-width:24px;text-align:right">1</div>
+  </div></div>
+</div>
+
+</div>
+
+
+
+</body></html>
+------MultipartBoundary--4X2AY0kwAzbLdfJjXFEg7JdJ2xXRwUJgS9oGn4gyOj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-73d0b7fc-4de9-4fba-a870-5ea81dc33b34@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+.wrap { padding: 1rem 0px; font-family: var(--font-sans); }
+
+.section-label { font-size: 11px; font-weight: 500; letter-spacing: 0.08em;=
+ color: var(--color-text-tertiary); text-transform: uppercase; margin-botto=
+m: 10px; }
+
+.top-bar { display: flex; align-items: center; justify-content: space-betwe=
+en; margin-bottom: 1.2rem; flex-wrap: wrap; gap: 8px; }
+
+.filter-row { display: flex; gap: 6px; flex-wrap: wrap; }
+
+.filter-btn { font-size: 11px; padding: 5px 12px; border-radius: 20px; bord=
+er: 0.5px solid var(--color-border-secondary); background: var(--color-back=
+ground-secondary); cursor: pointer; color: var(--color-text-secondary); tra=
+nsition: 0.15s; }
+
+.filter-btn.active { background: var(--color-text-primary); color: var(--co=
+lor-background-primary); border-color: transparent; }
+
+.legend { display: flex; gap: 12px; font-size: 11px; color: var(--color-tex=
+t-secondary); }
+
+.leg-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-blo=
+ck; margin-right: 4px; vertical-align: middle; }
+
+.scorecard-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap=
+: 10px; margin-bottom: 1.2rem; }
+
+.sc-card { background: var(--color-background-primary); border: 0.5px solid=
+ var(--color-border-tertiary); border-radius: var(--border-radius-lg); padd=
+ing: 14px 16px; cursor: pointer; transition: border-color 0.15s; position: =
+relative; }
+
+.sc-card:hover { border-color: var(--color-border-primary); }
+
+.sc-card.selected { border: 2px solid var(--color-text-primary); }
+
+.sc-card.rag-green { border-left: 3px solid rgb(42, 122, 59); }
+
+.sc-card.rag-amber { border-left: 3px solid rgb(186, 117, 23); }
+
+.sc-card.rag-red { border-left: 3px solid rgb(192, 57, 43); }
+
+.sc-card.rag-gray { border-left: 3px solid rgb(170, 170, 170); }
+
+.sc-header { display: flex; justify-content: space-between; align-items: fl=
+ex-start; margin-bottom: 8px; }
+
+.sc-name { font-size: 13px; font-weight: 500; color: var(--color-text-prima=
+ry); }
+
+.rag-badge { font-size: 10px; font-weight: 500; padding: 2px 8px; border-ra=
+dius: 10px; }
+
+.badge-green { background: rgb(230, 243, 234); color: rgb(26, 92, 42); }
+
+.badge-amber { background: rgb(253, 243, 227); color: rgb(138, 80, 16); }
+
+.badge-red { background: rgb(253, 234, 234); color: rgb(138, 26, 26); }
+
+.badge-gray { background: var(--color-background-secondary); color: var(--c=
+olor-text-tertiary); }
+
+.sc-metrics { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 6px; =
+margin-bottom: 8px; }
+
+.sc-metric { text-align: center; }
+
+.sc-metric-val { font-size: 16px; font-weight: 500; color: var(--color-text=
+-primary); }
+
+.sc-metric-label { font-size: 10px; color: var(--color-text-tertiary); marg=
+in-top: 1px; }
+
+.sc-months { display: flex; gap: 4px; margin-top: 6px; }
+
+.month-pip { flex: 1 1 0%; height: 4px; border-radius: 2px; }
+
+.drill-panel { background: var(--color-background-primary); border: 0.5px s=
+olid var(--color-border-tertiary); border-radius: var(--border-radius-lg); =
+padding: 16px 18px; margin-bottom: 12px; display: none; }
+
+.drill-panel.visible { display: block; }
+
+.drill-title { font-size: 14px; font-weight: 500; color: var(--color-text-p=
+rimary); margin-bottom: 12px; display: flex; align-items: center; gap: 8px;=
+ }
+
+.drill-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+
+.tbl { width: 100%; border-collapse: collapse; font-size: 12px; }
+
+.tbl th { font-size: 11px; color: var(--color-text-tertiary); font-weight: =
+500; padding: 5px 8px; border-bottom: 0.5px solid var(--color-border-tertia=
+ry); text-align: left; }
+
+.tbl td { padding: 5px 8px; border-bottom: 0.5px solid var(--color-border-t=
+ertiary); color: var(--color-text-secondary); font-size: 12px; }
+
+.tbl tr:last-child td { border-bottom: none; }
+
+.mpr-pill { display: inline-block; padding: 2px 8px; border-radius: 4px; fo=
+nt-size: 11px; font-weight: 500; }
+
+.summary-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap:=
+ 8px; margin-bottom: 1rem; }
+
+.stat-box { background: var(--color-background-secondary); border-radius: v=
+ar(--border-radius-md); padding: 10px 12px; text-align: center; }
+
+.stat-val { font-size: 18px; font-weight: 500; color: var(--color-text-prim=
+ary); }
+
+.stat-label { font-size: 10px; color: var(--color-text-tertiary); margin-to=
+p: 2px; }
+
+.close-btn { margin-left: auto; font-size: 11px; color: var(--color-text-te=
+rtiary); cursor: pointer; padding: 2px 8px; border-radius: 4px; border: 0.5=
+px solid var(--color-border-secondary); }
+
+.close-btn:hover { background: var(--color-background-secondary); }
+------MultipartBoundary--4X2AY0kwAzbLdfJjXFEg7JdJ2xXRwUJgS9oGn4gyOj------
